@@ -50,7 +50,11 @@
     {
       "name": "test",
       "image": "test.com",
-      "ingredients": "onion",
+      "ingredients": [
+        "onion",
+        "2",
+        "each"
+      ],
       "instructions": "put in oven",
       "likes": 0,
       "id": 4
