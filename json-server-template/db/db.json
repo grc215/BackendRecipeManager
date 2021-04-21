@@ -4,25 +4,56 @@
       "id": 1,
       "name": "Chicken Satay",
       "image": "https://gbc-cdn-public-media.azureedge.net/img82070.768x512.jpg",
-      "ingredients": ["1/4 cup  Coconut milk", "1.2 lbs  Chicken Breasts", "1 tbsp  Curry powder", "1 tsp  White Sugar", "2 tsp  Red curry paste", "1 tsp  Salt"], 
-      "instructions": "mariande overnight, cut and skewer meat, grill until it has a light char", 
-      "likes": 8
+      "ingredients": [
+        "1/4 cup  Coconut milk",
+        "1.2 lbs  Chicken Breasts",
+        "1 tbsp  Curry powder",
+        "1 tsp  White Sugar",
+        "2 tsp  Red curry paste",
+        "1 tsp  Salt"
+      ],
+      "instructions": "mariande overnight, cut and skewer meat, grill until it has a light char",
+      "likes": 3
     },
     {
       "id": 2,
       "name": "Vietnamese Fresh Spring Rolls",
       "image": "https://healthynibblesandbits.com/wp-content/uploads/2020/02/Vietnamese-Spring-Rolls-Recipe-Card-480x480.jpg",
-      "ingredients": ["2  oz Rice vermicelli ", "8  Rice wrappers", "3  Shrimp", "1 tsp  White Sugar", "2  Basil leaves", "2  Mint leaves", "6  Cilantro leaves", "Chopped lettuce", "Rice Vermicelli"], 
-      "instructions": "cook shrimp (grill or boil), wet rice paper, roll meat together with other ingredinets", 
-      "likes": 8
+      "ingredients": [
+        "2  oz Rice vermicelli ",
+        "8  Rice wrappers",
+        "3  Shrimp",
+        "1 tsp  White Sugar",
+        "2  Basil leaves",
+        "2  Mint leaves",
+        "6  Cilantro leaves",
+        "Chopped lettuce",
+        "Rice Vermicelli"
+      ],
+      "instructions": "cook shrimp (grill or boil), wet rice paper, roll meat together with other ingredinets",
+      "likes": 10
     },
     {
       "id": 3,
       "name": "Xiao Long Bao",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Xiao_Long_Bao_at_Nanxiang_Mantou_Dian_1.jpg/1200px-Xiao_Long_Bao_at_Nanxiang_Mantou_Dian_1.jpg",
-      "ingredients": ["Homemade Broth", "400 grams all-purpose flour", "3/4 cups boiling hot water", "1/4 cup cold water", "1 tablespoon cooking oil"], 
-      "instructions": "make stock, dumpling dough, mix broth broth with agar-agar the night before, wrap dumpling dough around the filling and agar-agar broth, steam for 8 minutes", 
-      "likes": 8
+      "ingredients": [
+        "Homemade Broth",
+        "400 grams all-purpose flour",
+        "3/4 cups boiling hot water",
+        "1/4 cup cold water",
+        "1 tablespoon cooking oil"
+      ],
+      "instructions": "make stock, dumpling dough, mix broth broth with agar-agar the night before, wrap dumpling dough around the filling and agar-agar broth, steam for 8 minutes",
+      "likes": 9
+    },
+    {
+      "name": "test",
+      "image": "test.com",
+      "ingredients": "onion",
+      "instructions": "put in oven",
+      "likes": 0,
+      "id": 4
     }
   ]
 }
